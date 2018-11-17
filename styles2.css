@@ -187,7 +187,7 @@ footer .social a {
 
 
 
-@media (max-width: 400px){
+@media (max-width:503px){
 .mobile-view {
 	display: block;
 	float: right;
@@ -289,7 +289,7 @@ header a img {
 
 }
 
-@media (min-width:400px) and (max-width:768px){
+@media (min-width:503px) and (max-width:768px){
 .mobile-view {
 	display: block;
 	float: right;
